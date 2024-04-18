@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="GROSSETAPPMAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:GROSSETAPPMAUI"
+    Shell.FlyoutBehavior="Flyout"
+    FlyoutBackgroundColor="#26413C"
+    Shell.ForegroundColor="#FFFFFF"
+    Shell.TitleColor="#FFFFFF"
+    Shell.BackgroundColor="#26413C">
+
+    <Shell.FlyoutHeader>
+        <StackLayout>
+            <Image 
+                Source="regione_toscana.png" 
+                Aspect="Fill" 
+                HeightRequest="250" 
+                WidthRequest="250"/>
+        </StackLayout>
+    </Shell.FlyoutHeader>
+
+    <ShellContent 
+        Title="City"
+        Icon="location"
+        ContentTemplate="{DataTemplate local:CityPage}"
+        Route="CityPage"/>
+
+    <ShellContent 
+        Title="Weather" 
+        Icon="thermometer"
+        ContentTemplate="{DataTemplate local:WeatherPage}"
+        Route="WeatherPage"/>
+    
+    <Shell.FlyoutFooter>
+        <Grid RowDefinitions="*, *">
+            <Label Grid.Row="0" Text="Made by" FontSize="18" HorizontalOptions="CenterAndExpand"/>
+            <Label Grid.Row="1" Text="MCAMARDELLA" FontSize="18" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+        </Grid>
+    </Shell.FlyoutFooter>
+ 
+</Shell>

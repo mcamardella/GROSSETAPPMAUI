@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\weatherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\utilis\\utilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\utilis\\utilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\weatherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\dailycitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\dailycitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\valuesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\valuesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\citypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\citypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\citypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\citypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\recordcitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\recordcitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\timelinesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\timelinesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\weatherrootmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\weatherrootmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\recordweathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\recordweathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\cityrootmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\cityrootmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\metadatacitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\metadatacitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\metadataweathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\metadataweathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\models\\coordinatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\models\\coordinatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\grossetappmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\grossetappmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|c:\\users\\mario\\source\\repos\\grossetappmaui\\grossetappmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C3A410A-A383-4E7C-90A3-3DC8A9A5A802}|GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj|solutionrelative:grossetappmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilis.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Utilis\\Utilis.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Utilis\\Utilis.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Utilis\\Utilis.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Utilis\\Utilis.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:05:52.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\WeatherPage.xaml.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\WeatherPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\WeatherPage.xaml.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\WeatherPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwFAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:26:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\CityPage.xaml.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\CityPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\CityPage.xaml.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\CityPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:56:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\WeatherPage.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\WeatherPage.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\WeatherPage.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\WeatherPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T09:03:00.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\CityPage.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\CityPage.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\CityPage.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\CityPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T08:54:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyCityModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\DailyCityModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\DailyCityModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\DailyCityModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\DailyCityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:18:28.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\AppShell.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T08:48:22.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:56:32.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T12:00:33.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\ValuesModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\ValuesModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\ValuesModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\ValuesModel.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAD4v9sAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:23:09.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T12:00:26.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TimelinesModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\TimelinesModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\TimelinesModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\TimelinesModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\TimelinesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:22:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordCityModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\RecordCityModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\RecordCityModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\RecordCityModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\RecordCityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:15:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherRootModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\WeatherRootModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\WeatherRootModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\WeatherRootModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\WeatherRootModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:24:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecordWeatherModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\RecordWeatherModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\RecordWeatherModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\RecordWeatherModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\RecordWeatherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:21:35.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LocationModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\LocationModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\LocationModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\LocationModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\LocationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:19:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MetadataWeatherModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\MetadataWeatherModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\MetadataWeatherModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\MetadataWeatherModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\MetadataWeatherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:20:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CityRootModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\CityRootModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\CityRootModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\CityRootModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\CityRootModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:16:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MetadataCityModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\MetadataCityModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\MetadataCityModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\MetadataCityModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\MetadataCityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:14:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoordinateModel.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\CoordinateModel.cs",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\Models\\CoordinateModel.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\Models\\CoordinateModel.cs",
+              "RelativeToolTip": "GROSSETAPPMAUI\\Models\\CoordinateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:14:22.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\MainPage.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T09:02:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\App.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\App.xaml",
+              "RelativeToolTip": "GROSSETAPPMAUI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T08:54:08.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GROSSETAPPMAUI",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj",
+              "RelativeDocumentMoniker": "GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\GROSSETAPPMAUI\\GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj",
+              "RelativeToolTip": "GROSSETAPPMAUI\\GROSSETAPPMAUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T08:53:27.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
